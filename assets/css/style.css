@@ -20,17 +20,17 @@
     background: rgba(183, 165, 165, 0.99);
     color: white;
     font-size: 17px;
-    padding: 16px 10px;
 }
 
-.caja{
-	border-radius: 20px;
+.caja {
+    border-radius: 20px;
+    padding: 16px 10px;
 }
 
 body {
     font-family: 'Kelly Slab', cursive;
 }
 
-.btn-group{
-	font-size: 15px;
+.btn-group {
+    font-size: 15px;
 }
