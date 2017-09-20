@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Kelly+Slab');
+
+.navbar {
+    border-radius: 4px;
+    background: rgba(255, 69, 0, 0.62);
+    padding: 7px;
+    color: white;
+}
+
+#resultado {
+    padding: 20px 50px;
+}
+
+.btn-primary {
+    background-color: rgba(255, 69, 0, 0.62);
+    border-color: rgba(255, 69, 0, 0.62);
+}
+
+.row {
+    background: rgba(183, 165, 165, 0.99);
+    color: white;
+    font-size: 17px;
+    padding: 16px 10px;
+}
+
+.caja{
+	border-radius: 20px;
+}
+
+body {
+    font-family: 'Kelly Slab', cursive;
+}
+
+.btn-group{
+	font-size: 15px;
+}
